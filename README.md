@@ -1,1 +1,1 @@
-<img src="./corvax.gif" alt="Muzzy at the computer" width="100%" />
+<img src="./corvax.gif" alt="i have got a computah" width="100%" />
